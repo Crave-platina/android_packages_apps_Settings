@@ -119,10 +119,6 @@
     <string name="copied_to_clipboard">Copied to clipboard</string>
     <string name="longpress_to_clipboard">Long-press to copy</string>
 
-    <!-- Keybox Data -->
-    <string name="keybox_data_title">Select keybox XML to spoof</string>
-    <string name="keybox_data_summary">Select the Keybox XML used for system-wide key attestation spoofing. Click Delete to reset the system-wide Keybox data values.</string>
-
     <!-- Auto pin confirm -->
     <string name="lock_screen_auto_pin_confirm_summary_custom">Unlock automatically if you input a correct PIN. This is slightly less secure than tapping Enter to confirm.</string>
 
@@ -212,10 +208,6 @@
     <!-- Override Mock Location restriction -->
     <string name="override_mock_location_title">Override mock location restriction</string>
     <string name="override_mock_location_summary">When enabled, apps cannot detect mock locations</string>
-
-    <!-- Pif Data -->
-    <string name="pif_data_title">Select PIF JSON to spoof</string>
-    <string name="pif_data_summary">Select PIF JSON used for prop attestation spoofing for google mobile services and play store. Click the delete button in order to reset the PIF data props and use dynamic PIF props which are used by default.</string>
 
     <!-- Force LTE_CA -->
     <string name="force_lte_ca_title">Carrier Aggregation</string>

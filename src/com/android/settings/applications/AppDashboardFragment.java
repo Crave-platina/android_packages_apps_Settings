@@ -16,7 +16,6 @@
 
 package com.android.settings.applications;
 
-import android.app.Activity;
 import android.app.settings.SettingsEnums;
 import android.content.Context;
 import android.provider.SearchIndexableResource;
